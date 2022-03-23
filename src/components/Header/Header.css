@@ -1,0 +1,17 @@
+.nav {
+  height: 80px;
+  background-color: #1c2b35;
+  display: flex;
+  align-items: center;
+  padding: 0 140px;
+  justify-content: space-between;
+}
+.nav a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #fff;
+  padding: 18px;
+}
+.nav a:hover {
+  color: aqua;
+}
